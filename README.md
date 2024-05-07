@@ -1,6 +1,6 @@
 # Getting Started with React Simulator SPA.
 * To run this app just download the entire repository and run it in the local **http://localhost:3000**
-* You can also run with build folder open `index.html` file
+* You can also run with build file  --> open the build folder and run `index.html` file
 
 ## Available Scripts
 
