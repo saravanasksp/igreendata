@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-* To run this app just download the entire repo and run it in the local
+* To run this app just download the entire repo and run it in the local **http://localhost:3000**
 * You can also run with build folder open `index.html` file
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
